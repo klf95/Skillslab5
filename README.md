@@ -1,1 +1,6 @@
+# Skillslab5
+group members: Kevin Fung, Michael Schafer The code we created takes the name and then a percent from the user. With the percent, the program will multiply it by .01 and print the user's name and the decimal value for the percent. We created this code in order to ensure that people do not struggle through the task of converting percentages back to decimal form.
 
+In order to install our device, launch a terminal and type in "git clone https://github.com/klf95/Skillslab5.git". This will download the contents inside our github and allow you to access our code. We chose the GNU General Public License because we care about sharing and being able to receive feedback and improvements from whomever would like to help. The GNU General Public License allows us to do that while still keeping our code safe.
+
+We chose to adapt our code of conduct from the Convant Code of Conduct because it highlights all the aspects of community that are valued in our github environment. It also highlights the consequences for thoses that do not meet the standards of our community and how we will enforce these rules. Both of these components are integral to ensuring that anyone who wants to add code to our project feels welcome.
