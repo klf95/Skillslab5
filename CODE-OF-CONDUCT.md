@@ -75,7 +75,7 @@ like social media. Violating these terms may lead to a temporary or permanent ba
 
 ### Note of Clarification
 
-**Right to Appeal**: It should be noted that will always have the right to appeal any outcome that you deem to be unjustly determined. If community leaders believe that your actions have been misinterpreted or mischaracterized, they may change their decision. 
+**Right to Appeal**: It should be noted that will always have the right to appeal any decision that you deem to be unjustly determined. If community leaders believe that your actions have been misinterpreted or mischaracterized, they may alter their decision. 
 
 ## Attribution
 
