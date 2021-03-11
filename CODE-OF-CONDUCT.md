@@ -21,26 +21,28 @@ Examples of unacceptable behavior include:
 * The use of sexualized language or imagery, and sexual attention or advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Publishing others' private information, such as a physical or email address, without their explicit permission (doxing)
+* Other conduct which could reasonably be considered inappropriate in a professional setting (if you are unsure of what constitutes inappropiate, just ask)
 
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will always communicate reasons for moderation decisions when appropriate. You will have the right to appeal decisions and defend yourself if you believe that something you said has been misinterpreted.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. This community membership should not be taken for granted.
 Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement.
-All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. We hope to create an environment were people are not afraid to:
+* alert community leaders if something has gone wrong
+* solve disputes on their own if feasible
+Nevertheless, all complaints will be reviewed and investigated promptly and justly.
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+All community leaders are obligated to respect the privacy and security of the reporter of any incident. They will reserve your right to remain anonymous.
 
 ## Enforcement Guidelines
 
@@ -70,6 +72,10 @@ like social media. Violating these terms may lead to a temporary or permanent ba
 **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
+
+### Note of Clarification
+
+**Right to Appeal**: It should be noted that will always have the right to appeal any outcome that you deem to be unjustly determined. If community leaders believe that your actions have been misinterpreted or mischaracterized, they may change their decision. 
 
 ## Attribution
 
